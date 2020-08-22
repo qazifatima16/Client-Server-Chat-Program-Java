@@ -1,0 +1,9 @@
+Steps used in creating Client/Server Chat program:
+1. Setup a ServerSocket in the Server Class.
+2. Create a Socket in the Login Class.
+3. Create a Loop to continuously accept Clients.
+4. Create the Client Threads.
+5. Create the Server Thread.
+6. Make the Client Thread send and receive data.
+7. Make the Server Thread send and receive data.
+8. Test the Server and add optional functionality. 
